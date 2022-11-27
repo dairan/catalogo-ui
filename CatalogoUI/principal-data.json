@@ -1,0 +1,100 @@
+[
+    {
+        "menu": {
+            "titulo": "ActivityIndicatorView",
+            "descricao": "A view that shows that a task is in progress.",
+            "icone": "signpost.right.fill",
+            "cor": "primaria01",
+            "backgroundColor": "background02",
+            "destaque": false,
+            "url": "https://developer.apple.com/documentation/uikit/"
+        }
+    },
+    {
+        "menu": {
+            "titulo": "AlertController",
+            "descricao": "An object that displays an alert message.",
+            "icone": "exclamationmark.triangle.fill",
+            "cor": "primaria02",
+            "backgroundColor": "background01",
+            "destaque": true,
+            "url": "https://developer.apple.com/documentation/uikit/"
+        }
+    },
+    {
+        "menu": {
+            "titulo": "Button",
+            "descricao": "A control that executes your custom code in response to user interactions.",
+            "icone": "rectangle.and.hand.point.up.left.fill",
+            "cor": "primaria01",
+            "backgroundColor": "background01",
+            "destaque": true,
+            "url": "https://developer.apple.com/documentation/uikit/"
+        }
+    },
+    {
+        "menu": {
+            "titulo": "Button.PointerStyleProvider",
+            "descricao": "A type alias defining a closure that returns a pointer style to apply to a button.",
+            "icone": "hourglass.circle.fill",
+            "cor": "primaria02",
+            "backgroundColor": "background01",
+            "destaque": true,
+            "url": "https://developer.apple.com/documentation/uikit/"
+        }
+    },
+    {
+        "menu": {
+            "titulo": "DatePicker",
+            "descricao": "A control for inputting date and time values.",
+            "icone": "calendar.badge.clock",
+            "cor": "primaria01",
+            "backgroundColor": "background01",
+            "destaque": false,
+            "url": "https://developer.apple.com/documentation/uikit/"
+        }
+    },
+    {
+        "menu": {
+            "titulo": "PickerView",
+            "descricao": "A view that uses a spinning-wheel or slot-machine metaphor to show one or more sets of values.",
+            "icone": "hand.point.right.fill",
+            "cor": "primaria02",
+            "backgroundColor": "background01",
+            "destaque": false,
+            "url": "https://developer.apple.com/documentation/uikit/"
+        }
+    },
+    {
+        "menu": {
+            "titulo": "ColorPickerViewController",
+            "descricao": "A view controller that informs your app about user interaction with the color picker.",
+            "icone": "paintpalette.fill",
+            "cor": "primaria02",
+            "backgroundColor": "background02",
+            "destaque": false,
+            "url": "https://developer.apple.com/documentation/uikit/"
+        }
+    },
+    {
+        "menu": {
+            "titulo": "ColorWell",
+            "descricao": "A control that displays a color picker.",
+            "icone": "squareshape.split.3x3",
+            "cor": "primaria01",
+            "backgroundColor": "background02",
+            "destaque": false,
+            "url": "https://developer.apple.com/documentation/uikit/"
+        }
+    },
+    {
+        "menu": {
+            "titulo": "FontPickerViewController",
+            "descricao": "A view controller that manages the interface for selecting a font that the system provides or the user installs.",
+            "icone": "textformat.abc",
+            "cor": "primaria01",
+            "backgroundColor": "background01",
+            "destaque": true
+        }
+    }
+]
